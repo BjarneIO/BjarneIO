@@ -6,7 +6,8 @@
 
 <p> 👋 Hi, I’m @BjarneVerschorre. </p>
 <p> 👀 I’m interested in Privacy and Security. </p>
-<p> 🌱 I’m currently learning PHP, Lua, Python and C, C# and C++. </p>
+<p> 🌱 I'm an IT Student trying my best not to be bad in what I do. </p>
+<p> 📚 I’m currently learning PHP, Lua, Python and C, C# and C++. </p>
 <p> 💞️ I’m looking to collaborate on some projects with people. </p>
 
 
