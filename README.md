@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Bjarne! 
-> An IT student intressted in privacy and security.
+> An IT student interested in privacy and security.
 
 ----
 
